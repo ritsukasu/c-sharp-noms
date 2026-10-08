@@ -1,0 +1,17 @@
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\bin\Debug\net10.0-windows\Viscara_Inventory.exe
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\bin\Debug\net10.0-windows\Viscara_Inventory.deps.json
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\bin\Debug\net10.0-windows\Viscara_Inventory.runtimeconfig.json
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\bin\Debug\net10.0-windows\Viscara_Inventory.dll
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\bin\Debug\net10.0-windows\Viscara_Inventory.pdb
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.Ryan_Inventory.resources
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.AssemblyInfo.cs
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.dll
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\refint\Viscara_Inventory.dll
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.pdb
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_Inventory.genruntimeconfig.cache
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\ref\Viscara_Inventory.dll
+C:\Users\ASUS ROG\Downloads\Valencia_Labs\Valencia_Labs\Viscara_Inventory\obj\Debug\net10.0-windows\Viscara_.18E879FD.Up2Date
