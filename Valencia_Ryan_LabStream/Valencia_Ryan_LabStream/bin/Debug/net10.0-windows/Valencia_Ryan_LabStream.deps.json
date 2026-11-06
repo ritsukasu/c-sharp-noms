@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Valencia_Ryan_LabStream/1.0.0": {
+        "runtime": {
+          "Valencia_Ryan_LabStream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Valencia_Ryan_LabStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
