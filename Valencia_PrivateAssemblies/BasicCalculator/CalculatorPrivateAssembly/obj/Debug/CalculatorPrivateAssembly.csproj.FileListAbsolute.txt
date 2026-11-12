@@ -1,0 +1,6 @@
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.dll
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.pdb

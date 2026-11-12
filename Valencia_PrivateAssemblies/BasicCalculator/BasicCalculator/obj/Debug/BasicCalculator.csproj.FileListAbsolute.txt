@@ -1,0 +1,12 @@
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.FrmBasicCalculator.resources
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCal.E684EF6F.Up2Date
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\ASUS ROG\Downloads\Valencia_PrivateAssemblies\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
